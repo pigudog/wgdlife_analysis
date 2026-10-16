@@ -1,0 +1,114 @@
+class	unit	scope	display_MSK	display_TCGA	tier	direction_MSK
+broad_gain	10p	Breast	10p	10p	tier1	CO
+broad_gain	10p	NSCLC	10p	10p	tier1	CO
+broad_gain	10p	pancancer	10p	10p	tier1	CO
+broad_gain	11p	pancancer	11p	11p	tier1	CO
+broad_gain	11q	Colorectal	11q	11q	tier1	CO
+broad_gain	12p	Colorectal	12p	12p	tier1	ME
+broad_gain	12q	Colorectal	12q	12q	tier1	ME
+broad_gain	13q	Endometrial	13q	13q	tier2	CO
+broad_gain	14q	Head & Neck	14q	14q	tier2	CO
+broad_gain	16p	Breast	16p	16p	tier1	ME
+broad_gain	1p	Endometrial	1p	1p	tier1	CO
+broad_gain	1q	Bladder	1q	1q	tier2	ME
+broad_gain	1q	Breast	1q	1q	tier1	ME
+broad_gain	1q	NSCLC	1q	1q	tier1	ME
+broad_gain	1q	pancancer	1q	1q	tier1	ME
+broad_gain	20p	Endometrial	20p	20p	tier1	CO
+broad_gain	20q	Breast	20q	20q	tier1	CO
+broad_gain	20q	Colorectal	20q	20q	tier1	CO
+broad_gain	20q	Ovarian	20q	20q	tier1	CO
+broad_gain	20q	pancancer	20q	20q	tier1	CO
+broad_gain	21q	pancancer	21q	21q	tier1	CO
+broad_gain	22q	pancancer	22q	22q	tier1	CO
+broad_gain	2p	Bladder	2p	2p	tier2	CO
+broad_gain	2p	Head & Neck	2p	2p	tier1	CO
+broad_gain	2p	pancancer	2p	2p	tier1	CO
+broad_gain	2q	pancancer	2q	2q	tier1	CO
+broad_gain	3q	Head & Neck	3q	3q	tier2	ME
+broad_gain	4p	Endometrial	4p	4p	tier2	CO
+broad_gain	4p	pancancer	4p	4p	tier1	CO
+broad_gain	7q	Renal	7q	7q	tier1	ME
+broad_gain	7q	pancancer	7q	7q	tier1	ME
+broad_gain	8p	Colorectal	8p	8p	tier1	ME
+broad_gain	8p	Endometrial	8p	8p	tier2	ME
+broad_gain	8p	pancancer	8p	8p	tier1	ME
+broad_gain	8q	Colorectal	8q	8q	tier1	ME
+broad_gain	8q	pancancer	8q	8q	tier1	ME
+broad_loh	11p	pancancer	11p	11p	tier1	CO
+broad_loh	12q	Breast	12q	12q	tier1	CO
+broad_loh	12q	pancancer	12q	12q	tier1	CO
+broad_loh	13q	Bladder	13q	13q	tier1	CO
+broad_loh	14q	Renal	14q	14q	tier1	ME
+broad_loh	16q	Breast	16q	16q	tier1	ME
+broad_loh	16q	Ovarian	16q	16q	tier2	ME
+broad_loh	16q	pancancer	16q	16q	tier1	ME
+broad_loh	17p	pancancer	17p	17p	tier1	CO
+broad_loh	17q	Breast	17q	17q	tier1	CO
+broad_loh	17q	Colorectal	17q	17q	tier2	CO
+broad_loh	17q	pancancer	17q	17q	tier1	CO
+broad_loh	1p	Breast	1p	1p	tier1	ME
+broad_loh	20p	Colorectal	20p	20p	tier2	ME
+broad_loh	20p	pancancer	20p	20p	tier1	ME
+broad_loh	22q	Breast	22q	22q	tier1	ME
+broad_loh	22q	pancancer	22q	22q	tier1	ME
+broad_loh	3q	Breast	3q	3q	tier2	CO
+broad_loh	3q	pancancer	3q	3q	tier2	CO
+broad_loh	6q	Breast	6q	6q	tier1	ME
+broad_loh	6q	Pancreatic	6q	6q	tier2	ME
+broad_loh	6q	pancancer	6q	6q	tier1	ME
+broad_loh	9q	Head & Neck	9q	9q	tier2	CO
+focal_amp	CCND1	Bladder	CCND1	CCND1	tier1	ME
+focal_amp	CCNE1	Esophagogastric	CCNE1	CCNE1	tier2	CO
+focal_amp	CCNE1	pancancer	CCNE1	CCNE1	tier1	CO
+focal_amp	E2F3	Bladder	E2F3	E2F3	tier1	CO
+focal_amp	NOTCH2	pancancer	NOTCH2	NOTCH2	tier1	CO
+focal_del	FANCA	Breast	FANCA	FANCA	tier2	ME
+focal_loh	11p:10-20Mb	pancancer	11p15 (CTR9)	11p15 (CTR9)	tier2	ME
+focal_loh	12q:110-120Mb	Ovarian	12q24 (TBX3)	12q24 (TBX3)	tier2	ME
+focal_loh	12q:120-130Mb	Ovarian	12q24 (HNF1A)	12q24 (KMT5A)	tier2	ME
+focal_loh	13q:100-110Mb	Breast	13q33 (ERCC5)	13q33 (ERCC5)	tier2	CO
+focal_loh	19q:20-30Mb	Esophagogastric	19q12 (CCNE1)	19q12 (CCNE1)	tier2	CO
+focal_loh	19q:20-30Mb	pancancer	19q12 (CCNE1)	19q12 (CCNE1)	tier1	CO
+focal_loh	19q:30-40Mb	Breast	19q13 (CEBPA)	19q13 (CEBPA)	tier2	CO
+focal_loh	19q:30-40Mb	pancancer	19q13 (CEBPA)	19q13 (CEBPA)	tier1	CO
+focal_loh	19q:40-50Mb	NSCLC	19q13 (ARHGAP35)	19q13 (ARHGAP35)	tier1	ME
+focal_loh	1p:10-20Mb	pancancer	1p36 (MAD2L2)	1p36 (SDHB)	tier1	ME
+focal_loh	1p:20-30Mb	Endometrial	1p36 (CDC42)	1p36 (ARID1A)	tier2	ME
+focal_loh	1p:20-30Mb	pancancer	1p36 (ARID1A)	1p36 (ARID1A)	tier1	ME
+snv	AKT1	Breast	AKT1	AKT1	tier1	ME
+snv	ARID1A	Esophagogastric	ARID1A	ARID1A	tier1	ME
+snv	ARID1A	pancancer	ARID1A	ARID1A	tier1	ME
+snv	CBFB	Breast	CBFB	CBFB	tier1	ME
+snv	CDH1	Breast	CDH1	CDH1	tier1	ME
+snv	CDH1	pancancer	CDH1	CDH1	tier1	ME
+snv	CTCF	Endometrial	CTCF	CTCF	tier2	ME
+snv	CTCF	pancancer	CTCF	CTCF	tier2	ME
+snv	FGFR3	Bladder	FGFR3	FGFR3	tier1	ME
+snv	FOXA1	Breast	FOXA1	FOXA1	tier1	ME
+snv	FOXA1	pancancer	FOXA1	FOXA1	tier2	ME
+snv	GATA3	Breast	GATA3	GATA3	tier1	ME
+snv	GNAS	Colorectal	GNAS	GNAS	tier2	ME
+snv	HRAS	Bladder	HRAS	HRAS	tier2	ME
+snv	HRAS	pancancer	HRAS	HRAS	tier1	ME
+snv	KMT2C	Breast	KMT2C	KMT2C	tier1	ME
+snv	KMT2C	pancancer	KMT2C	KMT2C	tier1	ME
+snv	KRAS	Colorectal	KRAS	KRAS	tier1	ME
+snv	KRAS	pancancer	KRAS	KRAS	tier1	ME
+snv	MAP3K1	Breast	MAP3K1	MAP3K1	tier1	ME
+snv	PIK3CA	Breast	PIK3CA	PIK3CA	tier1	ME
+snv	PIK3CA	pancancer	PIK3CA	PIK3CA	tier1	ME
+snv	PPP2R1A	Endometrial	PPP2R1A	PPP2R1A	tier1	CO
+snv	PTEN	Endometrial	PTEN	PTEN	tier1	ME
+snv	PTEN	pancancer	PTEN	PTEN	tier1	ME
+snv	RHOA	Esophagogastric	RHOA	RHOA	tier2	ME
+snv	SMAD4	pancancer	SMAD4	SMAD4	tier1	ME
+snv	TP53	Bladder	TP53	TP53	tier1	CO
+snv	TP53	Breast	TP53	TP53	tier1	CO
+snv	TP53	Colorectal	TP53	TP53	tier1	CO
+snv	TP53	Endometrial	TP53	TP53	tier1	CO
+snv	TP53	Esophagogastric	TP53	TP53	tier1	CO
+snv	TP53	Hepatobiliary	TP53	TP53	tier1	CO
+snv	TP53	NSCLC	TP53	TP53	tier1	CO
+snv	TP53	Prostate	TP53	TP53	tier1	CO
+snv	TP53	pancancer	TP53	TP53	tier1	CO

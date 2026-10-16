@@ -1,0 +1,71 @@
+event_class	row	lineage	log2_ratio	thin	defined
+loh	HLA class I LOH	NSCLC	0.1956	FALSE	TRUE
+loh	HLA class I LOH	Breast	-0.3669	FALSE	TRUE
+loh	HLA class I LOH	Esophagogastric	-0.1306	FALSE	TRUE
+loh	HLA class I LOH	Ovarian	-0.1305	FALSE	TRUE
+loh	HLA class I LOH	Colorectal	-0.6107	FALSE	TRUE
+loh	HLA class I LOH	Bladder	0.4950	FALSE	TRUE
+loh	HLA class I LOH	Head&Neck	-0.4474	FALSE	TRUE
+loh	HLA class I LOH	Hepatobiliary	0.1450	TRUE	TRUE
+loh	HLA class I LOH	Endometrial	-1.6732	TRUE	TRUE
+loh	HLA class I LOH	Renal	0.5820	FALSE	TRUE
+snv	T cell killing	NSCLC	0.0694	FALSE	TRUE
+snv	T cell killing	Breast	-0.0023	FALSE	TRUE
+snv	T cell killing	Esophagogastric	-0.3420	FALSE	TRUE
+snv	T cell killing	Ovarian	-1.0985	FALSE	TRUE
+snv	T cell killing	Colorectal	-0.2558	FALSE	TRUE
+snv	T cell killing	Bladder	0.3508	FALSE	TRUE
+snv	T cell killing	Head&Neck	-0.7370	FALSE	TRUE
+snv	T cell killing	Hepatobiliary	0.1067	FALSE	TRUE
+snv	T cell killing	Endometrial	-1.2453	FALSE	TRUE
+snv	T cell killing	Renal	0.0342	FALSE	TRUE
+snv	MHC-I surface	NSCLC	0.0929	FALSE	TRUE
+snv	MHC-I surface	Breast	-0.2373	FALSE	TRUE
+snv	MHC-I surface	Esophagogastric	-0.4201	FALSE	TRUE
+snv	MHC-I surface	Ovarian	-0.9551	FALSE	TRUE
+snv	MHC-I surface	Colorectal	-0.7033	FALSE	TRUE
+snv	MHC-I surface	Bladder	0.3305	FALSE	TRUE
+snv	MHC-I surface	Head&Neck	-0.1844	FALSE	TRUE
+snv	MHC-I surface	Hepatobiliary	-0.2436	FALSE	TRUE
+snv	MHC-I surface	Endometrial	-1.6040	TRUE	TRUE
+snv	MHC-I surface	Renal	0.2678	FALSE	TRUE
+snv	in vivo immune pressure	NSCLC	0.1226	FALSE	TRUE
+snv	in vivo immune pressure	Breast	0.2305	FALSE	TRUE
+snv	in vivo immune pressure	Esophagogastric	-0.3070	FALSE	TRUE
+snv	in vivo immune pressure	Ovarian	-1.3056	FALSE	TRUE
+snv	in vivo immune pressure	Colorectal	-0.3814	FALSE	TRUE
+snv	in vivo immune pressure	Bladder	0.2012	FALSE	TRUE
+snv	in vivo immune pressure	Head&Neck	-0.1037	FALSE	TRUE
+snv	in vivo immune pressure	Hepatobiliary	-0.1137	FALSE	TRUE
+snv	in vivo immune pressure	Endometrial	-0.7413	FALSE	TRUE
+snv	in vivo immune pressure	Renal	0.1682	FALSE	TRUE
+snv	γδ T cell killing	NSCLC	-0.1030	FALSE	TRUE
+snv	γδ T cell killing	Breast	0.1585	FALSE	TRUE
+snv	γδ T cell killing	Esophagogastric	0.0579	FALSE	TRUE
+snv	γδ T cell killing	Ovarian	-0.2181	TRUE	TRUE
+snv	γδ T cell killing	Colorectal	-0.4575	FALSE	TRUE
+snv	γδ T cell killing	Bladder	0.4236	FALSE	TRUE
+snv	γδ T cell killing	Head&Neck	-0.4150	FALSE	TRUE
+snv	γδ T cell killing	Hepatobiliary	-0.0212	FALSE	TRUE
+snv	γδ T cell killing	Endometrial	-1.6087	TRUE	TRUE
+snv	γδ T cell killing	Renal	-0.3985	TRUE	TRUE
+snv	NK cell killing	NSCLC	0.1843	FALSE	TRUE
+snv	NK cell killing	Breast	0.4705	FALSE	TRUE
+snv	NK cell killing	Esophagogastric	0.3210	FALSE	TRUE
+snv	NK cell killing	Ovarian	0.0043	TRUE	TRUE
+snv	NK cell killing	Colorectal	2.0661	TRUE	TRUE
+snv	NK cell killing	Bladder	-0.2394	FALSE	TRUE
+snv	NK cell killing	Head&Neck	-0.2109	FALSE	TRUE
+snv	NK cell killing	Hepatobiliary	-0.0212	TRUE	TRUE
+snv	NK cell killing	Endometrial	-2.0911	TRUE	TRUE
+snv	NK cell killing	Renal	-1.2130	TRUE	TRUE
+snv	macrophage	NSCLC	-0.1354	FALSE	TRUE
+snv	macrophage	Breast	-1.0821	TRUE	TRUE
+snv	macrophage	Esophagogastric	-0.7114	FALSE	TRUE
+snv	macrophage	Ovarian	0.1969	TRUE	TRUE
+snv	macrophage	Colorectal	-1.4782	TRUE	TRUE
+snv	macrophage	Bladder	0.3861	TRUE	TRUE
+snv	macrophage	Head&Neck	0.7485	FALSE	TRUE
+snv	macrophage	Hepatobiliary	-0.2176	TRUE	TRUE
+snv	macrophage	Endometrial	-1.1651	TRUE	TRUE
+snv	macrophage	Renal	-1.0324	TRUE	TRUE

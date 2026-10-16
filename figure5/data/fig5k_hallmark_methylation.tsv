@@ -1,0 +1,12 @@
+side	set	immune	Z
+gained	Allograft Rejection	TRUE	7.604
+gained	Interferon Gamma Response	TRUE	3.28
+gained	Pancreas Beta Cells	FALSE	3.237
+gained	Apical Junction	FALSE	2.933
+lost	Estrogen Response Late	FALSE	4.044
+lost	Coagulation	FALSE	4.101
+lost	KRAS Signaling Up	FALSE	4.895
+lost	Epithelial Mesenchymal Transition	FALSE	5.381
+lost	Estrogen Response Early	FALSE	6.787
+lost	KRAS Signaling Dn	FALSE	7.638
+lost	Myogenesis	FALSE	9.609

@@ -1,0 +1,27 @@
+cohort	scope	n	wgd_pos
+TCGA	pancancer	7355	3382
+TCGA	Bladder	402	255
+TCGA	Breast	1083	558
+TCGA	Colorectal	621	311
+TCGA	Endometrial	540	150
+TCGA	Esophagogastric	625	331
+TCGA	Head & Neck	519	256
+TCGA	Hepatobiliary	422	167
+TCGA	NSCLC	1013	605
+TCGA	Ovarian	568	378
+TCGA	Pancreatic	177	36
+TCGA	Prostate	492	106
+TCGA	Renal	893	229
+MSK-IMPACT	pancancer	12190	2874
+MSK-IMPACT	Bladder	1245	386
+MSK-IMPACT	Breast	2325	655
+MSK-IMPACT	Colorectal	1811	505
+MSK-IMPACT	Endometrial	1235	162
+MSK-IMPACT	Esophagogastric	586	237
+MSK-IMPACT	Head & Neck	108	25
+MSK-IMPACT	Hepatobiliary	503	94
+MSK-IMPACT	NSCLC	2126	500
+MSK-IMPACT	Ovarian	324	118
+MSK-IMPACT	Pancreatic	748	84
+MSK-IMPACT	Prostate	710	58
+MSK-IMPACT	Renal	469	50

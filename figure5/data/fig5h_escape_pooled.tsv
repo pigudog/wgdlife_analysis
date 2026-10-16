@@ -1,0 +1,8 @@
+event_class	row	lineage	log2_ratio	thin	defined
+loh	HLA class I LOH	All	-0.0411	FALSE	TRUE
+snv	T cell killing	All	0.0062	FALSE	TRUE
+snv	MHC-I surface	All	0.0170	FALSE	TRUE
+snv	in vivo immune pressure	All	0.1970	FALSE	TRUE
+snv	γδ T cell killing	All	0.0591	FALSE	TRUE
+snv	NK cell killing	All	0.3856	FALSE	TRUE
+snv	macrophage	All	-0.0180	FALSE	TRUE

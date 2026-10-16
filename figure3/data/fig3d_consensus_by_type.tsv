@@ -1,0 +1,423 @@
+platform	cancer	event	P_type
+MSK	Bladder Cancer	APC	0.4166666666666667
+MSK	Bladder Cancer	ARID1A	0.7678571428571429
+MSK	Bladder Cancer	ATM	0.625
+MSK	Bladder Cancer	CDKN2A	0.95
+MSK	Bladder Cancer	KMT2D	0.7903225806451613
+MSK	Bladder Cancer	PIK3CA	0.8055555555555556
+MSK	Bladder Cancer	PTEN	0.9166666666666666
+MSK	Bladder Cancer	RB1	0.8586956521739131
+MSK	Bladder Cancer	SMARCA4	0.75
+MSK	Bladder Cancer	TP53	0.9583333333333334
+MSK	Bladder Cancer	loss_11p	0.590032154340836
+MSK	Bladder Cancer	loss_12q	0.25
+MSK	Bladder Cancer	loss_16q	0.34541984732824427
+MSK	Bladder Cancer	loss_17p	0.6650326797385621
+MSK	Bladder Cancer	loss_17q	0.1783625730994152
+MSK	Bladder Cancer	loss_20p	0.08011049723756906
+MSK	Bladder Cancer	loss_22q	0.4318181818181818
+MSK	Bladder Cancer	loss_3q	0.11337209302325581
+MSK	Bladder Cancer	loss_6q	0.48723404255319147
+MSK	Breast Cancer	ARID1A	0.34615384615384615
+MSK	Breast Cancer	ATM	0.5
+MSK	Breast Cancer	CDKN2A	0.75
+MSK	Breast Cancer	NF1	0.7833333333333333
+MSK	Breast Cancer	PIK3CA	0.8423423423423423
+MSK	Breast Cancer	PIK3R1	0.46875
+MSK	Breast Cancer	PTEN	0.7314814814814815
+MSK	Breast Cancer	RB1	0.803030303030303
+MSK	Breast Cancer	STK11	0.75
+MSK	Breast Cancer	TP53	0.9284565916398714
+MSK	Breast Cancer	loss_11p	0.4252941176470588
+MSK	Breast Cancer	loss_12q	0.44435351882160395
+MSK	Breast Cancer	loss_16q	0.6569478908188585
+MSK	Breast Cancer	loss_17p	0.849905303030303
+MSK	Breast Cancer	loss_17q	0.6657303370786517
+MSK	Breast Cancer	loss_20p	0.13636363636363635
+MSK	Breast Cancer	loss_22q	0.6067235859124867
+MSK	Breast Cancer	loss_3q	0.22193877551020408
+MSK	Breast Cancer	loss_6q	0.4552
+MSK	Colorectal Cancer	APC	0.8557422969187675
+MSK	Colorectal Cancer	ARID1A	0.7352941176470589
+MSK	Colorectal Cancer	ATM	0.925
+MSK	Colorectal Cancer	KRAS	0.8669724770642202
+MSK	Colorectal Cancer	PIK3CA	0.4166666666666667
+MSK	Colorectal Cancer	PIK3R1	0.5909090909090909
+MSK	Colorectal Cancer	PTEN	0.53125
+MSK	Colorectal Cancer	SMAD4	0.9051724137931034
+MSK	Colorectal Cancer	TP53	0.9661697247706422
+MSK	Colorectal Cancer	loss_11p	0.25614250614250617
+MSK	Colorectal Cancer	loss_12q	0.2032967032967033
+MSK	Colorectal Cancer	loss_16q	0.19600591715976332
+MSK	Colorectal Cancer	loss_17p	0.8751306165099269
+MSK	Colorectal Cancer	loss_17q	0.49351491569390404
+MSK	Colorectal Cancer	loss_20p	0.06764705882352941
+MSK	Colorectal Cancer	loss_22q	0.6517441860465116
+MSK	Colorectal Cancer	loss_3q	0.16320293398533006
+MSK	Colorectal Cancer	loss_6q	0.21787296898079764
+MSK	Endometrial Cancer	ARID1A	0.6428571428571429
+MSK	Endometrial Cancer	KRAS	0.8214285714285714
+MSK	Endometrial Cancer	PIK3CA	0.8541666666666666
+MSK	Endometrial Cancer	PIK3R1	0.6730769230769231
+MSK	Endometrial Cancer	PTEN	0.6764705882352942
+MSK	Endometrial Cancer	TP53	0.9566326530612245
+MSK	Endometrial Cancer	loss_11p	0.5662393162393162
+MSK	Endometrial Cancer	loss_12q	0.2326388888888889
+MSK	Endometrial Cancer	loss_16q	0.6709844559585493
+MSK	Endometrial Cancer	loss_17p	0.8161157024793388
+MSK	Endometrial Cancer	loss_17q	0.618421052631579
+MSK	Endometrial Cancer	loss_20p	0.11616161616161616
+MSK	Endometrial Cancer	loss_22q	0.6403508771929824
+MSK	Endometrial Cancer	loss_3q	0.17415730337078653
+MSK	Endometrial Cancer	loss_6q	0.24853801169590642
+MSK	Esophagogastric Cancer	APC	0.8333333333333334
+MSK	Esophagogastric Cancer	ARID1A	0.8863636363636364
+MSK	Esophagogastric Cancer	CDKN2A	0.8676470588235294
+MSK	Esophagogastric Cancer	NF1	0.5833333333333334
+MSK	Esophagogastric Cancer	PTEN	0.9166666666666666
+MSK	Esophagogastric Cancer	SMAD4	0.7916666666666666
+MSK	Esophagogastric Cancer	SMARCA4	0.6428571428571429
+MSK	Esophagogastric Cancer	TP53	0.9705882352941176
+MSK	Esophagogastric Cancer	loss_11p	0.47802197802197804
+MSK	Esophagogastric Cancer	loss_12q	0.33134920634920634
+MSK	Esophagogastric Cancer	loss_16q	0.5383211678832117
+MSK	Esophagogastric Cancer	loss_17p	0.8679525222551929
+MSK	Esophagogastric Cancer	loss_17q	0.46860986547085204
+MSK	Esophagogastric Cancer	loss_20p	0.1278409090909091
+MSK	Esophagogastric Cancer	loss_22q	0.6601208459214502
+MSK	Esophagogastric Cancer	loss_3q	0.24853801169590642
+MSK	Esophagogastric Cancer	loss_6q	0.36650485436893204
+MSK	Head and Neck Cancer	CDKN2A	0.9285714285714286
+MSK	Head and Neck Cancer	TP53	0.9423076923076923
+MSK	Head and Neck Cancer	loss_11p	0.38524590163934425
+MSK	Head and Neck Cancer	loss_12q	0.14102564102564102
+MSK	Head and Neck Cancer	loss_16q	0.24545454545454545
+MSK	Head and Neck Cancer	loss_17p	0.5512820512820513
+MSK	Head and Neck Cancer	loss_17q	0.1323529411764706
+MSK	Head and Neck Cancer	loss_20p	0.171875
+MSK	Head and Neck Cancer	loss_22q	0.26595744680851063
+MSK	Head and Neck Cancer	loss_3q	0.13157894736842105
+MSK	Head and Neck Cancer	loss_6q	0.20833333333333334
+MSK	Hepatobiliary Cancer	ARID1A	0.8055555555555556
+MSK	Hepatobiliary Cancer	ATM	0.7857142857142857
+MSK	Hepatobiliary Cancer	CDKN2A	0.8125
+MSK	Hepatobiliary Cancer	KRAS	0.9285714285714286
+MSK	Hepatobiliary Cancer	TP53	0.9328358208955224
+MSK	Hepatobiliary Cancer	loss_11p	0.3860294117647059
+MSK	Hepatobiliary Cancer	loss_12q	0.3423913043478261
+MSK	Hepatobiliary Cancer	loss_16q	0.4605263157894737
+MSK	Hepatobiliary Cancer	loss_17p	0.7
+MSK	Hepatobiliary Cancer	loss_17q	0.23134328358208955
+MSK	Hepatobiliary Cancer	loss_20p	0.16071428571428573
+MSK	Hepatobiliary Cancer	loss_22q	0.37850467289719625
+MSK	Hepatobiliary Cancer	loss_3q	0.25280898876404495
+MSK	Hepatobiliary Cancer	loss_6q	0.6188524590163934
+MSK	Non-Small Cell Lung Cancer	APC	0.7833333333333333
+MSK	Non-Small Cell Lung Cancer	ARID1A	0.78
+MSK	Non-Small Cell Lung Cancer	ATM	0.7261904761904762
+MSK	Non-Small Cell Lung Cancer	CDKN2A	0.8858695652173914
+MSK	Non-Small Cell Lung Cancer	EGFR	0.7079207920792079
+MSK	Non-Small Cell Lung Cancer	KEAP1	0.9020618556701031
+MSK	Non-Small Cell Lung Cancer	KMT2D	0.6578947368421053
+MSK	Non-Small Cell Lung Cancer	KRAS	0.9094827586206896
+MSK	Non-Small Cell Lung Cancer	NF1	0.7934782608695652
+MSK	Non-Small Cell Lung Cancer	PIK3CA	0.45
+MSK	Non-Small Cell Lung Cancer	PTEN	0.8229166666666666
+MSK	Non-Small Cell Lung Cancer	RB1	0.8012048192771084
+MSK	Non-Small Cell Lung Cancer	SMAD4	0.6458333333333334
+MSK	Non-Small Cell Lung Cancer	SMARCA4	0.8164556962025317
+MSK	Non-Small Cell Lung Cancer	STK11	0.9210526315789473
+MSK	Non-Small Cell Lung Cancer	TP53	0.8998756218905473
+MSK	Non-Small Cell Lung Cancer	loss_11p	0.3957960644007156
+MSK	Non-Small Cell Lung Cancer	loss_12q	0.4448818897637795
+MSK	Non-Small Cell Lung Cancer	loss_16q	0.47795698924731184
+MSK	Non-Small Cell Lung Cancer	loss_17p	0.7624143835616438
+MSK	Non-Small Cell Lung Cancer	loss_17q	0.27486559139784944
+MSK	Non-Small Cell Lung Cancer	loss_20p	0.1758703481392557
+MSK	Non-Small Cell Lung Cancer	loss_22q	0.5233516483516484
+MSK	Non-Small Cell Lung Cancer	loss_3q	0.46567357512953367
+MSK	Non-Small Cell Lung Cancer	loss_6q	0.5843815513626834
+MSK	Ovarian Cancer	ARID1A	0.8076923076923077
+MSK	Ovarian Cancer	KRAS	0.5909090909090909
+MSK	Ovarian Cancer	NF1	0.8846153846153846
+MSK	Ovarian Cancer	PIK3CA	0.8125
+MSK	Ovarian Cancer	RB1	0.6111111111111112
+MSK	Ovarian Cancer	TP53	0.9574209245742092
+MSK	Ovarian Cancer	loss_11p	0.4712230215827338
+MSK	Ovarian Cancer	loss_12q	0.29183673469387755
+MSK	Ovarian Cancer	loss_16q	0.6526845637583892
+MSK	Ovarian Cancer	loss_17p	0.9319923371647509
+MSK	Ovarian Cancer	loss_17q	0.8898305084745762
+MSK	Ovarian Cancer	loss_20p	0.09761904761904762
+MSK	Ovarian Cancer	loss_22q	0.7902843601895735
+MSK	Ovarian Cancer	loss_3q	0.11440677966101695
+MSK	Ovarian Cancer	loss_6q	0.5086805555555556
+MSK	Pancreatic Cancer	ARID1A	0.7916666666666666
+MSK	Pancreatic Cancer	CDKN2A	0.9134615384615384
+MSK	Pancreatic Cancer	KRAS	0.8764705882352941
+MSK	Pancreatic Cancer	RB1	0.75
+MSK	Pancreatic Cancer	SMAD4	0.717391304347826
+MSK	Pancreatic Cancer	TP53	0.9348739495798319
+MSK	Pancreatic Cancer	loss_11p	0.404296875
+MSK	Pancreatic Cancer	loss_12q	0.4140625
+MSK	Pancreatic Cancer	loss_16q	0.4116279069767442
+MSK	Pancreatic Cancer	loss_17p	0.8274021352313167
+MSK	Pancreatic Cancer	loss_17q	0.4170984455958549
+MSK	Pancreatic Cancer	loss_20p	0.09872611464968153
+MSK	Pancreatic Cancer	loss_22q	0.5883458646616542
+MSK	Pancreatic Cancer	loss_3q	0.3873626373626374
+MSK	Pancreatic Cancer	loss_6q	0.5995934959349594
+MSK	Prostate Cancer	ATM	0.9375
+MSK	Prostate Cancer	KMT2D	0.75
+MSK	Prostate Cancer	PIK3CA	0.75
+MSK	Prostate Cancer	PTEN	0.75
+MSK	Prostate Cancer	RB1	0.9166666666666666
+MSK	Prostate Cancer	TP53	0.9852941176470589
+MSK	Prostate Cancer	loss_11p	0.16566265060240964
+MSK	Prostate Cancer	loss_12q	0.08865248226950355
+MSK	Prostate Cancer	loss_16q	0.6532846715328468
+MSK	Prostate Cancer	loss_17p	0.5994475138121547
+MSK	Prostate Cancer	loss_17q	0.1761904761904762
+MSK	Prostate Cancer	loss_20p	0.09782608695652174
+MSK	Prostate Cancer	loss_22q	0.4032258064516129
+MSK	Prostate Cancer	loss_3q	0.054878048780487805
+MSK	Prostate Cancer	loss_6q	0.32113821138211385
+MSK	Renal Cell Carcinoma	TP53	0.6538461538461539
+MSK	Renal Cell Carcinoma	loss_11p	0.23717948717948717
+MSK	Renal Cell Carcinoma	loss_12q	0.1
+MSK	Renal Cell Carcinoma	loss_16q	0.20192307692307693
+MSK	Renal Cell Carcinoma	loss_17p	0.33116883116883117
+MSK	Renal Cell Carcinoma	loss_17q	0.3017241379310345
+MSK	Renal Cell Carcinoma	loss_20p	0.07954545454545454
+MSK	Renal Cell Carcinoma	loss_22q	0.4318181818181818
+MSK	Renal Cell Carcinoma	loss_3q	0.27
+MSK	Renal Cell Carcinoma	loss_6q	0.575
+PCAWG	Breast Cancer	PIK3CA	0.8087637620378404
+PCAWG	Breast Cancer	TP53	0.8743664426250428
+PCAWG	Breast Cancer	loss_11p	0.38235294117647056
+PCAWG	Breast Cancer	loss_12q	0.2916666666666667
+PCAWG	Breast Cancer	loss_16q	0.8214285714285714
+PCAWG	Breast Cancer	loss_17p	0.94
+PCAWG	Breast Cancer	loss_20p	0.55
+PCAWG	Breast Cancer	loss_22q	0.41304347826086957
+PCAWG	Breast Cancer	loss_3q	0.4090909090909091
+PCAWG	Breast Cancer	loss_6q	0.25
+PCAWG	Esophagogastric Cancer	TP53	0.9335713124733421
+PCAWG	Esophagogastric Cancer	loss_11p	0.43333333333333335
+PCAWG	Esophagogastric Cancer	loss_12q	0.4423076923076923
+PCAWG	Esophagogastric Cancer	loss_16q	0.5681818181818182
+PCAWG	Esophagogastric Cancer	loss_17p	0.9772727272727273
+PCAWG	Esophagogastric Cancer	loss_17q	0.53125
+PCAWG	Esophagogastric Cancer	loss_20p	0.2916666666666667
+PCAWG	Esophagogastric Cancer	loss_22q	0.868421052631579
+PCAWG	Esophagogastric Cancer	loss_3q	0.25
+PCAWG	Esophagogastric Cancer	loss_6q	0.39285714285714285
+PCAWG	Hepatobiliary Cancer	TP53	0.8626201610605483
+PCAWG	Hepatobiliary Cancer	loss_11p	0.12962962962962962
+PCAWG	Hepatobiliary Cancer	loss_12q	0.021739130434782608
+PCAWG	Hepatobiliary Cancer	loss_16q	0.5
+PCAWG	Hepatobiliary Cancer	loss_17p	0.796875
+PCAWG	Hepatobiliary Cancer	loss_17q	0.041666666666666664
+PCAWG	Hepatobiliary Cancer	loss_20p	0.3125
+PCAWG	Hepatobiliary Cancer	loss_22q	0.3888888888888889
+PCAWG	Hepatobiliary Cancer	loss_3q	0.022727272727272728
+PCAWG	Hepatobiliary Cancer	loss_6q	0.4166666666666667
+PCAWG	Ovarian Cancer	TP53	0.953602894079578
+PCAWG	Ovarian Cancer	loss_11p	0.53125
+PCAWG	Ovarian Cancer	loss_12q	0.125
+PCAWG	Ovarian Cancer	loss_16q	0.5357142857142857
+PCAWG	Ovarian Cancer	loss_17p	0.9375
+PCAWG	Ovarian Cancer	loss_17q	0.85
+PCAWG	Ovarian Cancer	loss_20p	0.5
+PCAWG	Ovarian Cancer	loss_22q	0.84375
+PCAWG	Ovarian Cancer	loss_6q	0.4230769230769231
+PCAWG	Pancreatic Cancer	ARID1A	0.8889227010238696
+PCAWG	Pancreatic Cancer	KRAS	0.9424074727557056
+PCAWG	Pancreatic Cancer	SMAD4	0.7904485995248053
+PCAWG	Pancreatic Cancer	TP53	0.930314346495138
+PCAWG	Pancreatic Cancer	loss_11p	0.15714285714285714
+PCAWG	Pancreatic Cancer	loss_12q	0.2833333333333333
+PCAWG	Pancreatic Cancer	loss_16q	0.3055555555555556
+PCAWG	Pancreatic Cancer	loss_17p	0.9426229508196722
+PCAWG	Pancreatic Cancer	loss_17q	0.3620689655172414
+PCAWG	Pancreatic Cancer	loss_20p	0.5
+PCAWG	Pancreatic Cancer	loss_22q	0.6515151515151515
+PCAWG	Pancreatic Cancer	loss_3q	0.09259259259259259
+PCAWG	Pancreatic Cancer	loss_6q	0.47
+PCAWG	Prostate Cancer	loss_11p	0.02631578947368421
+PCAWG	Prostate Cancer	loss_16q	0.08333333333333333
+PCAWG	Prostate Cancer	loss_17q	0.038461538461538464
+PCAWG	Prostate Cancer	loss_3q	0.045454545454545456
+PCAWG	Prostate Cancer	loss_6q	0.05555555555555555
+PCAWG	Renal Cell Carcinoma	loss_17p	0.35714285714285715
+PCAWG	Renal Cell Carcinoma	loss_17q	0.25
+PCAWG	Renal Cell Carcinoma	loss_6q	0.4166666666666667
+TCGA	Bladder Cancer	APC	0.7300624026910136
+TCGA	Bladder Cancer	ARID1A	0.6766291455427379
+TCGA	Bladder Cancer	ATM	0.8408953722613279
+TCGA	Bladder Cancer	CDKN2A	0.8286163251344484
+TCGA	Bladder Cancer	KMT2D	0.717379006279798
+TCGA	Bladder Cancer	KRAS	0.9346801132879317
+TCGA	Bladder Cancer	NF1	0.7100920463305346
+TCGA	Bladder Cancer	PIK3CA	0.8328910691033294
+TCGA	Bladder Cancer	PTEN	0.7900443402818847
+TCGA	Bladder Cancer	RB1	0.8069817958971688
+TCGA	Bladder Cancer	SMARCA4	0.6750008772352758
+TCGA	Bladder Cancer	TP53	0.9074586050710713
+TCGA	Bladder Cancer	loss_11p	0.465
+TCGA	Bladder Cancer	loss_12q	0.07333333333333333
+TCGA	Bladder Cancer	loss_16q	0.3412698412698413
+TCGA	Bladder Cancer	loss_17p	0.7772277227722773
+TCGA	Bladder Cancer	loss_17q	0.08139534883720931
+TCGA	Bladder Cancer	loss_20p	0.21794871794871795
+TCGA	Bladder Cancer	loss_22q	0.38953488372093026
+TCGA	Bladder Cancer	loss_3q	0.038461538461538464
+TCGA	Bladder Cancer	loss_6q	0.405
+TCGA	Breast Cancer	ARID1A	0.5816959439498816
+TCGA	Breast Cancer	ATM	0.6457735524221996
+TCGA	Breast Cancer	EGFR	0.49377562431951366
+TCGA	Breast Cancer	KMT2D	0.6287099798219699
+TCGA	Breast Cancer	NF1	0.36184645922370373
+TCGA	Breast Cancer	PIK3CA	0.8972141310507176
+TCGA	Breast Cancer	PTEN	0.8989689103364822
+TCGA	Breast Cancer	RB1	0.82170029303181
+TCGA	Breast Cancer	SMARCA4	0.18767727762605627
+TCGA	Breast Cancer	TP53	0.9449813784603313
+TCGA	Breast Cancer	loss_11p	0.2711267605633803
+TCGA	Breast Cancer	loss_12q	0.34051724137931033
+TCGA	Breast Cancer	loss_16q	0.7825
+TCGA	Breast Cancer	loss_17p	0.8568075117370892
+TCGA	Breast Cancer	loss_17q	0.50625
+TCGA	Breast Cancer	loss_20p	0.2616279069767442
+TCGA	Breast Cancer	loss_22q	0.6183431952662722
+TCGA	Breast Cancer	loss_3q	0.12626262626262627
+TCGA	Breast Cancer	loss_6q	0.42805755395683454
+TCGA	Colorectal Cancer	APC	0.8157779967701233
+TCGA	Colorectal Cancer	ATM	0.6850455321006444
+TCGA	Colorectal Cancer	KMT2D	0.5046422472351427
+TCGA	Colorectal Cancer	KRAS	0.9382196884883868
+TCGA	Colorectal Cancer	PIK3CA	0.8397492007480776
+TCGA	Colorectal Cancer	SMAD4	0.8697818016052333
+TCGA	Colorectal Cancer	SMARCA4	0.536295025941911
+TCGA	Colorectal Cancer	TP53	0.9669044303843807
+TCGA	Colorectal Cancer	loss_11p	0.16176470588235295
+TCGA	Colorectal Cancer	loss_12q	0.13106796116504854
+TCGA	Colorectal Cancer	loss_16q	0.04430379746835443
+TCGA	Colorectal Cancer	loss_17p	0.85
+TCGA	Colorectal Cancer	loss_17q	0.32105263157894737
+TCGA	Colorectal Cancer	loss_20p	0.5222222222222223
+TCGA	Colorectal Cancer	loss_22q	0.3771186440677966
+TCGA	Colorectal Cancer	loss_3q	0.06132075471698113
+TCGA	Colorectal Cancer	loss_6q	0.13440860215053763
+TCGA	Esophagogastric Cancer	KMT2D	0.3619599574618122
+TCGA	Esophagogastric Cancer	PIK3CA	0.6827247070937502
+TCGA	Esophagogastric Cancer	SMAD4	0.8282012933654487
+TCGA	Esophagogastric Cancer	TP53	0.960882818283549
+TCGA	Esophagogastric Cancer	loss_11p	0.4875
+TCGA	Esophagogastric Cancer	loss_12q	0.2236842105263158
+TCGA	Esophagogastric Cancer	loss_16q	0.40384615384615385
+TCGA	Esophagogastric Cancer	loss_17p	0.9204545454545454
+TCGA	Esophagogastric Cancer	loss_17q	0.34
+TCGA	Esophagogastric Cancer	loss_20p	0.40384615384615385
+TCGA	Esophagogastric Cancer	loss_22q	0.5441176470588235
+TCGA	Esophagogastric Cancer	loss_3q	0.1388888888888889
+TCGA	Esophagogastric Cancer	loss_6q	0.4375
+TCGA	Head and Neck Cancer	APC	0.304087033924882
+TCGA	Head and Neck Cancer	CDKN2A	0.9363169375438632
+TCGA	Head and Neck Cancer	KEAP1	0.8154831904088078
+TCGA	Head and Neck Cancer	KMT2D	0.743166605989947
+TCGA	Head and Neck Cancer	NF1	0.6542642992101323
+TCGA	Head and Neck Cancer	PIK3CA	0.8286263086427247
+TCGA	Head and Neck Cancer	SMARCA4	0.43531705088843176
+TCGA	Head and Neck Cancer	TP53	0.921673782027718
+TCGA	Head and Neck Cancer	loss_11p	0.310126582278481
+TCGA	Head and Neck Cancer	loss_12q	0.04487179487179487
+TCGA	Head and Neck Cancer	loss_16q	0.19852941176470587
+TCGA	Head and Neck Cancer	loss_17p	0.5952380952380952
+TCGA	Head and Neck Cancer	loss_17q	0.27358490566037735
+TCGA	Head and Neck Cancer	loss_20p	0.15853658536585366
+TCGA	Head and Neck Cancer	loss_22q	0.14166666666666666
+TCGA	Head and Neck Cancer	loss_3q	0.03333333333333333
+TCGA	Head and Neck Cancer	loss_6q	0.24342105263157895
+TCGA	Hepatobiliary Cancer	APC	0.5364751577666735
+TCGA	Hepatobiliary Cancer	ATM	0.6577172736797662
+TCGA	Hepatobiliary Cancer	KMT2D	0.7277288508684603
+TCGA	Hepatobiliary Cancer	SMARCA4	0.6365331596143422
+TCGA	Hepatobiliary Cancer	TP53	0.9495761830604165
+TCGA	Hepatobiliary Cancer	loss_11p	0.10465116279069768
+TCGA	Hepatobiliary Cancer	loss_12q	0.21153846153846154
+TCGA	Hepatobiliary Cancer	loss_16q	0.5760869565217391
+TCGA	Hepatobiliary Cancer	loss_17p	0.7159090909090909
+TCGA	Hepatobiliary Cancer	loss_17q	0.1388888888888889
+TCGA	Hepatobiliary Cancer	loss_20p	0.2692307692307692
+TCGA	Hepatobiliary Cancer	loss_22q	0.1956521739130435
+TCGA	Hepatobiliary Cancer	loss_3q	0.08139534883720931
+TCGA	Hepatobiliary Cancer	loss_6q	0.6547619047619048
+TCGA	Non-Small Cell Lung Cancer	APC	0.8061623258844839
+TCGA	Non-Small Cell Lung Cancer	ARID1A	0.7703588670405758
+TCGA	Non-Small Cell Lung Cancer	ATM	0.7281189362309775
+TCGA	Non-Small Cell Lung Cancer	CDKN2A	0.9419093881003108
+TCGA	Non-Small Cell Lung Cancer	EGFR	0.8492030345680153
+TCGA	Non-Small Cell Lung Cancer	KEAP1	0.8732955906913084
+TCGA	Non-Small Cell Lung Cancer	KMT2D	0.7402918198969369
+TCGA	Non-Small Cell Lung Cancer	KRAS	0.8525275727144891
+TCGA	Non-Small Cell Lung Cancer	NF1	0.8042715979340888
+TCGA	Non-Small Cell Lung Cancer	PIK3CA	0.8496737578760565
+TCGA	Non-Small Cell Lung Cancer	PTEN	0.8386134326271396
+TCGA	Non-Small Cell Lung Cancer	RB1	0.751687539989171
+TCGA	Non-Small Cell Lung Cancer	SMAD4	0.8365123213609942
+TCGA	Non-Small Cell Lung Cancer	SMARCA4	0.7543775136208402
+TCGA	Non-Small Cell Lung Cancer	STK11	0.8947323053572427
+TCGA	Non-Small Cell Lung Cancer	TP53	0.910249816478984
+TCGA	Non-Small Cell Lung Cancer	loss_11p	0.33080808080808083
+TCGA	Non-Small Cell Lung Cancer	loss_12q	0.25914634146341464
+TCGA	Non-Small Cell Lung Cancer	loss_16q	0.43364928909952605
+TCGA	Non-Small Cell Lung Cancer	loss_17p	0.8430962343096234
+TCGA	Non-Small Cell Lung Cancer	loss_17q	0.27155172413793105
+TCGA	Non-Small Cell Lung Cancer	loss_20p	0.32954545454545453
+TCGA	Non-Small Cell Lung Cancer	loss_22q	0.4243421052631579
+TCGA	Non-Small Cell Lung Cancer	loss_3q	0.3888888888888889
+TCGA	Non-Small Cell Lung Cancer	loss_6q	0.5321782178217822
+TCGA	Ovarian Cancer	RB1	0.7638580832491667
+TCGA	Ovarian Cancer	TP53	0.9734533987880922
+TCGA	Ovarian Cancer	loss_11p	0.373015873015873
+TCGA	Ovarian Cancer	loss_12q	0.32978723404255317
+TCGA	Ovarian Cancer	loss_16q	0.6707317073170732
+TCGA	Ovarian Cancer	loss_17p	0.9953703703703703
+TCGA	Ovarian Cancer	loss_17q	0.9727272727272728
+TCGA	Ovarian Cancer	loss_20p	0.06944444444444445
+TCGA	Ovarian Cancer	loss_22q	0.9096385542168675
+TCGA	Ovarian Cancer	loss_3q	0.17857142857142858
+TCGA	Ovarian Cancer	loss_6q	0.4803921568627451
+TCGA	Pancreatic Cancer	CDKN2A	0.9275289255383522
+TCGA	Pancreatic Cancer	KRAS	0.8240473501658278
+TCGA	Pancreatic Cancer	TP53	0.8296834792615553
+TCGA	Pancreatic Cancer	loss_11p	0.3
+TCGA	Pancreatic Cancer	loss_12q	0.5769230769230769
+TCGA	Pancreatic Cancer	loss_16q	0.4642857142857143
+TCGA	Pancreatic Cancer	loss_17p	0.8035714285714286
+TCGA	Pancreatic Cancer	loss_17q	0.2916666666666667
+TCGA	Pancreatic Cancer	loss_20p	0.25
+TCGA	Pancreatic Cancer	loss_22q	0.5952380952380952
+TCGA	Pancreatic Cancer	loss_3q	0.375
+TCGA	Pancreatic Cancer	loss_6q	0.7045454545454546
+TCGA	Prostate Cancer	TP53	0.9123468829899747
+TCGA	Prostate Cancer	loss_11p	0.05555555555555555
+TCGA	Prostate Cancer	loss_12q	0.07142857142857142
+TCGA	Prostate Cancer	loss_16q	0.5416666666666666
+TCGA	Prostate Cancer	loss_17p	0.5769230769230769
+TCGA	Prostate Cancer	loss_17q	0.0625
+TCGA	Prostate Cancer	loss_20p	0.16666666666666666
+TCGA	Prostate Cancer	loss_22q	0.20833333333333334
+TCGA	Prostate Cancer	loss_3q	0.08333333333333333
+TCGA	Prostate Cancer	loss_6q	0.21428571428571427
+TCGA	Renal Cell Carcinoma	TP53	0.7928483254632857
+TCGA	Renal Cell Carcinoma	loss_11p	0.24285714285714285
+TCGA	Renal Cell Carcinoma	loss_12q	0.03571428571428571
+TCGA	Renal Cell Carcinoma	loss_16q	0.14
+TCGA	Renal Cell Carcinoma	loss_17p	0.33783783783783783
+TCGA	Renal Cell Carcinoma	loss_17q	0.2714285714285714
+TCGA	Renal Cell Carcinoma	loss_20p	0.125
+TCGA	Renal Cell Carcinoma	loss_22q	0.38333333333333336
+TCGA	Renal Cell Carcinoma	loss_3q	0.4032258064516129
+TCGA	Renal Cell Carcinoma	loss_6q	0.44594594594594594
